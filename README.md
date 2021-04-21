@@ -3,7 +3,7 @@
 
 # Table of Contents for Learning Materials
 - [Learning Materials](#learning-materials)
-  * [Neural Network Structure](#neural-network-structure)
+  * [Neural Network Structures](#neural-network-structures)
   * [Neural Network Tricks](#neural-network-tricks)
   * [Word Represetations](#word-represetations)
   * [Sentence Representations](#sentence-representations)
@@ -14,7 +14,7 @@
     + [Text-QA](#text-qa)
 
 # Learning Materials
-## Neural Network Structure
+## Neural Network Structures
 | Papers  | Codes  |
 |---|---|
 | [The Reversible Residual Network: Backpropagation Without Storing Activations](https://arxiv.org/pdf/1707.04585.pdf) |  |
