@@ -3,7 +3,8 @@
 
 # Table of Contents for Learning Materials
 - [Learning Materials](#learning-materials)
-  * [Deep Learning](#deep-learning)
+  * [Neural Network Structure](#neural-network-structure)
+  * [Neural Network Tricks](#neural-network-tricks)
   * [Word Represetations](#word-represetations)
   * [Sentence Representations](#sentence-representations)
   * [Sentence Matching](#sentence-matching)
@@ -13,13 +14,21 @@
     + [Text-QA](#text-qa)
 
 # Learning Materials
-## Deep Learning
+## Neural Network Structure
 | Papers  | Codes  |
 |---|---|
 | [The Reversible Residual Network: Backpropagation Without Storing Activations](https://arxiv.org/pdf/1707.04585.pdf) |  |
 | [An Empirical Exploration of Recurrent Network Architectures (2015)](http://proceedings.mlr.press/v37/jozefowicz15.pdf?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue)  |   |
 | [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling (2014)](https://arxiv.org/pdf/1412.3555.pdf?ref=hackernoon.com)  |   |
 | [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation (2014)](https://arxiv.org/pdf/1406.1078v3.pdf)  |   |
+
+## Neural Network Tricks
+| Papers  | Codes  |
+|---|---|
+| Dropout Seires |  |
+| Dropout: [A Simple Way to Prevent Neural Networks from Overfitting](https://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf) |  |
+| DropConnect: [Regularization of Neural Networks using DropConnect](http://yann.lecun.com/exdb/publis/pdf/wan-icml-13.pdf) |  |
+| Spatial Dropout: [Efficient Object Localization Using Convolutional Networks](https://arxiv.org/pdf/1411.4280.pdf) |  |
 
 ## Word Represetations
 | Papers  | Codes  |
