@@ -1,4 +1,4 @@
-# Awesome NLP: From Dummies To Expert
+# Awesome NLP: From Dummies To Experts
 > This repo aims to record papers and materials on NLP.
 
 # Table of Contents for Learning Materials
