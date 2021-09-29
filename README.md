@@ -12,6 +12,7 @@
   * [Question Answering](#question-answering)
     + [Knowledge-Graph QA](#knowledge-graph-qa)
     + [Text-QA](#text-qa)
+    + [XLanguage QA](#cross-language-qa)
 
 # Learning Materials
 ## Neural Network Structures
@@ -93,6 +94,11 @@
 | [A survey on question answering systems over linked data and documents (2019)](https://link.springer.com/content/pdf/10.1007/s10844-019-00584-7.pdf) |   |
 | [Reading Wikipedia to Answer Open-Domain Questions (2017)](https://arxiv.org/pdf/1704.00051.pdf)| |
 
+### Cross-Language QA
+| Papers  | Read  |
+|---|---|
+| [Cross-lingual Language Model Pretraining](https://proceedings.neurips.cc/paper/2019/file/c04c19c2c2474dbf5f7ac4372c5b9af1-Paper.pdf) | |
+| [Unsupervised Cross-lingual Representation Learning at Scale](https://proceedings.neurips.cc/paper/2019/file/c04c19c2c2474dbf5f7ac4372c5b9af1-Paper.pdf) ||
 
 ## Datasets
 | Datasets  | Des  |
