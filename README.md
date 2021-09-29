@@ -97,8 +97,9 @@
 ### Cross-Language QA
 | Papers  | Read  |
 |---|---|
-| [Cross-lingual Language Model Pretraining](https://proceedings.neurips.cc/paper/2019/file/c04c19c2c2474dbf5f7ac4372c5b9af1-Paper.pdf) | |
-| [Unsupervised Cross-lingual Representation Learning at Scale](https://proceedings.neurips.cc/paper/2019/file/c04c19c2c2474dbf5f7ac4372c5b9af1-Paper.pdf) ||
+| [Cross-lingual Language Model Pretraining (2019)](https://proceedings.neurips.cc/paper/2019/file/c04c19c2c2474dbf5f7ac4372c5b9af1-Paper.pdf) | |
+| [Unsupervised Cross-lingual Representation Learning at Scale (2019)](https://proceedings.neurips.cc/paper/2019/file/c04c19c2c2474dbf5f7ac4372c5b9af1-Paper.pdf) ||
+| [Rethinking embedding coupling in pre-trained language models (2020)](https://arxiv.org/abs/2010.12821)||
 
 ## Datasets
 | Datasets  | Des  |
