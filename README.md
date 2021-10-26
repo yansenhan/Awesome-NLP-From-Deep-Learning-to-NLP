@@ -1,5 +1,6 @@
 # Awesome NLP: From Dummies To Experts
-> This repo aims to record papers and materials on NLP.
+> This repo. records a number of papers that I finished reading when starting my NLP. They are great materials bridging the gap between Deep Learning and NLP.
+> I really recommend new NLPer to read those paper as a start in NLP.
 
 # Table of Contents for Learning Materials
 - [Learning Materials](#learning-materials)
