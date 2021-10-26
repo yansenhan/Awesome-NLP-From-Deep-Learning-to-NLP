@@ -14,6 +14,11 @@
     + [Knowledge-Graph QA](#knowledge-graph-qa)
     + [Text-QA](#text-qa)
     + [XLanguage QA](#cross-language-qa)
+  * [Datasets](#datasets)
+
+# Roadmap from Deep Learning to NLP
+(Mandatory) Neural Network Structures -> Neural Network Tricks -> Word Represetations -> Sentence Representations
+(Optional) Sentence Matching, Documents or Information Retrieval, Question Answering, Datasets
 
 # Learning Materials
 ## Neural Network Structures
