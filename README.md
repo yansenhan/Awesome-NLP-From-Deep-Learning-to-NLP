@@ -1,4 +1,4 @@
-# Awesome NLP: A Curated List of Papers for New NLPer
+# Awesome NLP: From Deep Learning to NLP
 > This repo. records a number of papers that I finished reading when starting my NLP. They are great materials bridging the gap between Deep Learning and NLP.
 > I really recommend new NLPer to read those paper as a start in NLP.
 
