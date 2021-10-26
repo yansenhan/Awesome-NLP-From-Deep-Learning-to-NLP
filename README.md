@@ -1,4 +1,4 @@
-# Awesome NLP: From Dummies To Experts
+# Awesome NLP: A Curated List of Papers for New NLPer
 > This repo. records a number of papers that I finished reading when starting my NLP. They are great materials bridging the gap between Deep Learning and NLP.
 > I really recommend new NLPer to read those paper as a start in NLP.
 
@@ -35,9 +35,10 @@
 ## Word Represetations
 | Papers  | Codes  |
 |---|---|
-| [Evaluating the Stability of Embedding-based Word Similarities]()  |   |
-| [The Strange Geometry of Skip-gram with Negative Sampling]()  |   |
-| [Factors Influencing the Surprising Instability of Word Embeddings]()  |   |
+| [Distributed Representations of Words and Phrases and their Compositionality](https://proceedings.neurips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf)| |
+| [Evaluating the Stability of Embedding-based Word Similarities](https://aclanthology.org/Q18-1008/)  |   |
+| [The Strange Geometry of Skip-gram with Negative Sampling](https://aclanthology.org/D17-1308.pdf)  |   |
+| [Factors Influencing the Surprising Instability of Word Embeddings](https://aclanthology.org/N18-1190/)  |   |
 
 ## Sentence Representations
 | Papers  | Read  |
